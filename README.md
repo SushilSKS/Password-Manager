@@ -3,9 +3,11 @@
 A simple Python-based password manager for storing and retrieving credentials securely.
 
 ## Features
-- Add and retrieve passwords
-- Local storage
-- Simple GUI interface
+- Add and save passwords
+- Search saved credentials by website
+- Local JSON-based storage (data.json)
+- Simple Tkinter GUI interface
+- Error handling for missing data files
 
 ## Tech Stack
 - Python 3
@@ -18,4 +20,4 @@ A simple Python-based password manager for storing and retrieving credentials se
 - Importance of not exposing sensitive data (like passwords)
 
 ## Preview
-![App Preview](password_manager_screenshot.png)
+![App Preview](Password_manager_screenshot.png)
